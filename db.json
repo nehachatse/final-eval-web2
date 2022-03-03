@@ -1,0 +1,14 @@
+{
+    "users": [ 
+        { "id": 1 , "username": "neha" , "password": "123"}
+    ],
+
+    "posts": [ 
+        {"id": 1, "post_title": "happy", "post_body": "Be happy", "authod_id": 1, "authod_username": "neha" },
+        {"id": 2, "post_title": "travel", "post_body": "Travelling", "authod_id": 1, "authod_username": "neha" }
+    ],
+
+    "comments": [  
+        
+    ]
+}
